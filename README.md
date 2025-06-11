@@ -1,4 +1,5 @@
 🏥 Hospital Management System - Python Project
+
 This is a Hospital Management System built using Python, Tkinter for GUI, and MySQL for database management. The application helps manage patient records, prescriptions, and hospital data efficiently.
 
 ✨ Features:
